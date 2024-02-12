@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently working on FreeLance
 - 🌱 I’m currently learning NextJs and Python
-- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/claudiodonosoc/)https://www.linkedin.com/in/claudiodonosoc/
+- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/claudiodonosoc/)
 - ⚡ Fun fact: We are all made of stardust.
